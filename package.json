@@ -35,8 +35,5 @@
     "ts-jest": "^26.5.4",
     "typescript": "^4.2.3",
     "yaml-loader": "^0.6.0"
-  },
-  "resolutions": {
-    "postcss": "^8.4.24"
   }
 }
